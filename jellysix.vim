@@ -4,6 +4,7 @@
 "  |  |  | -_| | | | |-   -|
 "  |_____|___|_|_|_  |__|__|  Jellybeans and Xoria256.
 "                |___|
+" AND VISIBLE HORIZONTAL SPLITS \o/
 
 " Version:  0.1
 " Author:   Sung Pae <self@sungpae.com>
